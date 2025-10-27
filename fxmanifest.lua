@@ -1,0 +1,11 @@
+fx_version 'cerulean'
+game 'gta5'
+
+author 'Benewww'
+description 'Fix face clipping through masks, including add-on masks'
+version '1.1.0'
+
+-- Lua 5.4
+lua54 'yes'
+
+client_script 'client.lua'
