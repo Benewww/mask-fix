@@ -14,4 +14,4 @@ It provides fixes for mask previews in **FiveM / ox_inventory**, including suppo
 
 ---
 
-![Mask Fix Preview](https://i.ibb.co/6zbp0kB/Sans-titre-1-Recupere.webp)
+<img width="1920" height="1080" alt="Sans titre-1-Récupéré" src="https://github.com/user-attachments/assets/62a63241-5641-48fd-aa41-67612abbf80b" />
