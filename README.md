@@ -1,13 +1,17 @@
-# Mask Fix – Fork Amélioré
+# Mask Fix – Improved Fork
 
-Ce projet est un **fork amélioré** de [mask-fix original](https://github.com/FuTTiiZ/mask-fix).  
-Il apporte des corrections pour les previews de masques dans **FiveM / ox_inventory**, y compris les **masques add-on**.
+This project is an **improved fork** of the [original mask-fix](https://github.com/FuTTiiZ/mask-fix).  
+It provides fixes for mask previews in **FiveM / ox_inventory**, including support for **add-on masks**.
 
 ---
 
-## Fonctionnalités principales
+## Main Features
 
-- Fix automatique des masques lors de la preview (`ox_inventory:previewCloth`)  
-- Corrige les problèmes de head blend et face features  
-- Compatible avec les modèles Freemode (`mp_m_freemode_01` et `mp_f_freemode_01`)  
-- Fonctionne également pour les **masques add-on**
+- Automatic mask fix during preview (`ox_inventory:previewCloth`)  
+- Fixes head blend and face features issues  
+- Compatible with Freemode models (`mp_m_freemode_01` and `mp_f_freemode_01`)  
+- Works with **add-on masks** as well
+
+---
+
+![Mask Fix Preview](https://i.ibb.co/6zbp0kB/Sans-titre-1-Recupere.webp)
