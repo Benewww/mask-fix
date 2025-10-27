@@ -7,7 +7,6 @@ It provides fixes for mask previews in **FiveM / ox_inventory**, including suppo
 
 ## Main Features
 
-- Automatic mask fix during preview (`ox_inventory:previewCloth`)  
 - Fixes head blend and face features issues  
 - Compatible with Freemode models (`mp_m_freemode_01` and `mp_f_freemode_01`)  
 - Works with **add-on masks** as well
